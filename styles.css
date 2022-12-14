@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    color: white;
 }
 .logo{
     height: 30px;
@@ -15,6 +16,7 @@ body{
     margin-top: 50px;
     margin-bottom: 40px;
     border: white solid 4px;
+    color: black;
 }
 .navbar{
     background-color: black;
@@ -29,3 +31,42 @@ body{
 .card-img-top{
     border-radius: 15px;
 }
+.image-style{
+    width: 400px;
+    height: 600px;
+    margin-top: 150px;
+    margin-left: 270px;
+    border: white solid 10px;
+}
+.paragraph-style,
+.contact-text{
+    margin-top: 150px;
+}
+.paragraph-text-style{
+    font-size: 17px;
+    line-height: 40px;
+    font-family: helpa slab;
+    letter-spacing: 0.5px;
+}
+hr{
+    width: 400px;
+}
+.contact-text{
+    text-align: center;
+}
+.contact-text hr{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+.contact-text-s{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    margin-top: 80px;
+    font-family: helpa slab;
+}
+.contact-text-s hr{
+    width: 100px;
+}
+
