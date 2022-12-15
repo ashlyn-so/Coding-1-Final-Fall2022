@@ -37,6 +37,7 @@ body{
     margin-top: 150px;
     margin-left: 270px;
     border: white solid 10px;
+    margin-bottom: 300px;
 }
 .paragraph-style,
 .contact-text{
@@ -65,6 +66,7 @@ hr{
     font-size: 30px;
     margin-top: 80px;
     font-family: helpa slab;
+    margin-bottom: 500px;
 }
 .contact-text-s hr{
     width: 100px;
@@ -78,4 +80,7 @@ footer{
 }
 .fter-link:hover{
     color: rgb(100, 151, 135);
+}
+footer .row{
+    text-align: center;
 }
