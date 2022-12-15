@@ -69,4 +69,13 @@ hr{
 .contact-text-s hr{
     width: 100px;
 }
-
+footer{
+    color: black;
+}
+.fter-link{
+    text-decoration: none;
+    color: rgb(101, 196, 164);
+}
+.fter-link:hover{
+    color: rgb(100, 151, 135);
+}
